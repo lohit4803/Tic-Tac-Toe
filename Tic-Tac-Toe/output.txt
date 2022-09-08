@@ -1,0 +1,43 @@
+Let’s start the game TIC TAC TOE.
+Enter the name of Player1: Amelia
+Enter the name of Player2: Jhon
+Board:
+---
+---
+---
+Amelia’s Turn (X):
+Enter a row number (0, 1, or 2): 0
+Enter a column number (0, 1, or 2): 0
+Board:
+X--
+---
+---
+Jhon’s Turn (O):
+Enter a row number (0, 1, or 2): 0
+Enter a column number (0, 1, or 2): 2
+Board:
+X-O
+---
+---
+Amelia’s Turn (X):
+Enter a row number (0, 1, or 2): 1
+Enter a column number (0, 1, or 2): 1
+Board:
+X-O
+-X-
+---
+Jhon’s Turn (O):
+Enter a row number (0, 1, or 2): 1
+Enter a column number (0, 1, or 2): 2
+Board:
+X-O
+-XO
+---
+Amelia’s Turn (X):
+Enter a row number (0, 1, or 2): 2
+Enter a column number (0, 1, or 2): 2
+Amelia has won!
+Board:
+X-O
+-XO
+--X
